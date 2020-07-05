@@ -1,2 +1,1 @@
-# ucubetech
-company website
+# ucubetechnologies
